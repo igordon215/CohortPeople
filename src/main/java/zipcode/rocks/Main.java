@@ -60,106 +60,107 @@ public class Main {
         students.add(newPerson);
 
         Person newPerson1 = new Person("Peter", "VanBeever");
-        newPerson.setFavdrink("Latte");
-        newPerson.setFavcolor("Purple");
-        newPerson.setBirthmonth("February");
-        newPerson.setAnypets(true);
+        newPerson1.setFavdrink("Latte");
+        newPerson1.setFavcolor("Purple");
+        newPerson1.setBirthmonth("February");
+        newPerson1.setAnypets(true);
         students.add(newPerson1);
 
         Person newPerson2 = new Person("Tim", "Linkous");
-        newPerson.setFavdrink("Water");
-        newPerson.setFavcolor("Green");
-        newPerson.setBirthmonth("September");
-        newPerson.setAnypets(false);
+        newPerson2.setFavdrink("Water");
+        newPerson2.setFavcolor("Green");
+        newPerson2.setBirthmonth("September");
+        newPerson2.setAnypets(false);
         students.add(newPerson2);
 
         Person newPerson3 = new Person("Qian", "Wang");
-        newPerson.setFavdrink("Water");
-        newPerson.setFavcolor("Blue");
-        newPerson.setBirthmonth("October");
-        newPerson.setAnypets(false);
+        newPerson3.setFavdrink("Water");
+        newPerson3.setFavcolor("Blue");
+        newPerson3.setBirthmonth("October");
+        newPerson3.setAnypets(false);
         students.add(newPerson3);
 
         Person newPerson4 = new Person("Diptika", "Devi");
-        newPerson.setFavdrink("Tea");
-        newPerson.setFavcolor("Orange");
-        newPerson.setBirthmonth("June");
-        newPerson.setAnypets(false);
+        newPerson4.setFavdrink("Tea");
+        newPerson4.setFavcolor("Orange");
+        newPerson4.setBirthmonth("June");
+        newPerson4.setAnypets(false);
         students.add(newPerson4);
 
         Person newPerson5 = new Person("Ian", "Gordon");
-        newPerson.setFavdrink("Water");
-        newPerson.setFavcolor("Green");
-        newPerson.setBirthmonth("April");
-        newPerson.setAnypets(true);
+        newPerson5.setFavdrink("Water");
+        newPerson5.setFavcolor("Green");
+        newPerson5.setBirthmonth("April");
+        newPerson5.setAnypets(true);
         students.add(newPerson5);
 
         Person newPerson6 = new Person("Tim", "Nguyen");
-        newPerson.setFavdrink("Bubble Tea");
-        newPerson.setFavcolor("White");
-        newPerson.setBirthmonth("November");
-        newPerson.setAnypets(true);
+        newPerson6.setFavdrink("Bubble Tea");
+        newPerson6.setFavcolor("White");
+        newPerson6.setBirthmonth("November");
+        newPerson6.setAnypets(true);
         students.add(newPerson6);
 
         Person newPerson7 = new Person("Bryan", "Smith");
-        newPerson.setFavdrink("Water");
-        newPerson.setFavcolor("Brown");
-        newPerson.setBirthmonth("May");
-        newPerson.setAnypets(false);
+        newPerson7.setFavdrink("Water");
+        newPerson7.setFavcolor("Brown");
+        newPerson7.setBirthmonth("May");
+        newPerson7.setAnypets(false);
         students.add(newPerson7);
 
         Person newPerson8 = new Person("Jonathan", "Diehl");
-        newPerson.setFavdrink("Coffee");
-        newPerson.setFavcolor("Green");
-        newPerson.setBirthmonth("February");
-        newPerson.setAnypets(true);
+        newPerson8.setFavdrink("Coffee");
+        newPerson8.setFavcolor("Green");
+        newPerson8.setBirthmonth("February");
+        newPerson8.setAnypets(true);
         students.add(newPerson8);
 
         Person newPerson9 = new Person("Jared", "Thacker");
-        newPerson.setFavdrink("Water");
-        newPerson.setFavcolor("Green");
-        newPerson.setBirthmonth("December");
-        newPerson.setAnypets(false);
+        newPerson9.setFavdrink("Water");
+        newPerson9.setFavcolor("Green");
+        newPerson9.setBirthmonth("December");
+        newPerson9.setAnypets(false);
         students.add(newPerson9);
 
         Person newPerson10 = new Person("Robbie", "Niemeyer");
-        newPerson.setFavdrink("Water");
-        newPerson.setFavcolor("Blue");
-        newPerson.setBirthmonth("January");
-        newPerson.setAnypets(false);
+        newPerson10.setFavdrink("Water");
+        newPerson10.setFavcolor("Blue");
+        newPerson10.setBirthmonth("January");
+        newPerson10.setAnypets(false);
         students.add(newPerson10);
 
         Person newPerson11 = new Person("Mohammed", "N.");
-        newPerson.setFavdrink("Snapple");
-        newPerson.setFavcolor("Green");
-        newPerson.setBirthmonth("August");
-        newPerson.setAnypets(false);
+        newPerson11.setFavdrink("Snapple");
+        newPerson11.setFavcolor("Green");
+        newPerson11.setBirthmonth("August");
+        newPerson11.setAnypets(false);
         students.add(newPerson11);
 
         Person newPerson12 = new Person("Josue", "Castro");
-        newPerson.setFavdrink("Coffee");
-        newPerson.setFavcolor("Blue");
-        newPerson.setBirthmonth("June");
-        newPerson.setAnypets(true);
+        newPerson12.setFavdrink("Coffee");
+        newPerson12.setFavcolor("Blue");
+        newPerson12.setBirthmonth("June");
+        newPerson12.setAnypets(true);
         students.add(newPerson12);
 
         Person newPerson13 = new Person("Coreye", "Ross");
-        newPerson.setFavdrink("Water");
-        newPerson.setFavcolor("Black");
-        newPerson.setBirthmonth("October");
-        newPerson.setAnypets(false);
+        newPerson13.setFavdrink("Water");
+        newPerson13.setFavcolor("Black");
+        newPerson13.setBirthmonth("October");
+        newPerson13.setAnypets(false);
         students.add(newPerson13);
 
         Person newPerson14 = new Person("Will", "Chapman");
-        newPerson.setFavdrink("Water");
-        newPerson.setFavcolor("Purple");
-        newPerson.setBirthmonth("December");
-        newPerson.setAnypets(false);
+        newPerson14.setFavdrink("Water");
+        newPerson14.setFavcolor("Purple");
+        newPerson14.setBirthmonth("December");
+        newPerson14.setAnypets(false);
         students.add(newPerson14);
 
         // and so on for EACH person in the cohort.
 
         return students;
+
     }
 
 

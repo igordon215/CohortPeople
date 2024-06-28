@@ -22,6 +22,7 @@ public class Person {
     public Person(String fname, String lname){
         this.firstname = fname;
         this.lastname = lname;
+
     }
 
 
